@@ -1,0 +1,18 @@
+/* open-sans-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/opensansn.woff2") format("woff2"),
+    url("../fonts/opensansn.woff.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/opensansb.woff2") format("woff2"),
+    url("../fonts/opensansb.woff.woff") format("woff");
+}
